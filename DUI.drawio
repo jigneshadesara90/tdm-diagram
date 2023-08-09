@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T10:51:45.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ooRKMGCV1LrwX3gS5j69" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T11:31:35.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="eDxdGuZmFUhN_WFexvWe" version="21.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="780" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,11 @@
         </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-22" target="RyZNCgzlQGEo0C-rfPGr-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-22" target="RyZNCgzlQGEo0C-rfPGr-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-22" value="Check BAC" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="670" width="80" height="80" as="geometry" />
@@ -139,8 +144,29 @@
             <mxPoint x="215" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyZNCgzlQGEo0C-rfPGr-43" value="Send Notification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-43" value="Send Notification to care taker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-57" value="BAC &amp;gt;= 0.200" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="670" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-58" target="RyZNCgzlQGEo0C-rfPGr-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-58" value="Medical Emergency" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-59" target="RyZNCgzlQGEo0C-rfPGr-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-59" value="Medical Emergency" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5" y="885" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-63" target="RyZNCgzlQGEo0C-rfPGr-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-63" value="Send Notification to nearest hospital&lt;br&gt;&lt;br&gt;Provide care taker phone no" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="5" y="1000" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

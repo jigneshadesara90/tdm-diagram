@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:11:18.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="m_AWY44qVl7CITvpOeOq" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:59:30.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SNFb2s6k3iIF6bfV5hvs" version="21.6.7" type="github">
   <diagram name="Page-1" id="OuorS9jKov36Hd_2crpW">
     <mxGraphModel dx="743" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,22 +41,18 @@
         <mxCell id="ptTr35JplMpbKP84stht-14" value="What is the amount of drink you consume?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-18" target="ptTr35JplMpbKP84stht-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ptTr35JplMpbKP84stht-18" value="Show Result" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-51" target="ptTr35JplMpbKP84stht-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-76" value="Yes - Frequent Drinker" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ptTr35JplMpbKP84stht-70">
-          <mxGeometry x="0.2048" y="1" relative="1" as="geometry">
-            <mxPoint x="20" as="offset" />
+        <mxCell id="ptTr35JplMpbKP84stht-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ptTr35JplMpbKP84stht-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="335" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-51" target="ptTr35JplMpbKP84stht-71">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ptTr35JplMpbKP84stht-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ptTr35JplMpbKP84stht-75" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ptTr35JplMpbKP84stht-72">
           <mxGeometry x="-0.0697" y="-1" relative="1" as="geometry">
@@ -68,52 +64,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-51" target="ptTr35JplMpbKP84stht-73">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ptTr35JplMpbKP84stht-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ptTr35JplMpbKP84stht-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="335" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ptTr35JplMpbKP84stht-77" value="Yes - social Drinker" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ptTr35JplMpbKP84stht-74">
           <mxGeometry x="-0.2143" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-51" target="ptTr35JplMpbKP84stht-89">
+        <mxCell id="ptTr35JplMpbKP84stht-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-18" target="ptTr35JplMpbKP84stht-81">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="270" />
-              <mxPoint x="770" y="270" />
-              <mxPoint x="770" y="810" />
-              <mxPoint x="385" y="810" />
-            </Array>
+            <mxPoint x="385" y="270" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-51" value="Do you&lt;br&gt;&amp;nbsp;want to Continue?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="280" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-69" target="ptTr35JplMpbKP84stht-81">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-69" value="Frequent Drinker" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="305" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-71" target="ptTr35JplMpbKP84stht-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-71" value="Heavy Drinker" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-73" target="ptTr35JplMpbKP84stht-81">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptTr35JplMpbKP84stht-73" value="Social Drinker" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ptTr35JplMpbKP84stht-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTr35JplMpbKP84stht-81" target="ptTr35JplMpbKP84stht-87">
           <mxGeometry relative="1" as="geometry" />
@@ -135,16 +99,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ptTr35JplMpbKP84stht-81" value="ACTION" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="540" width="80" height="80" as="geometry" />
+          <mxGeometry x="345" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ptTr35JplMpbKP84stht-87" value="Cab Booking Message" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ptTr35JplMpbKP84stht-89" value="End Conversation" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ptTr35JplMpbKP84stht-91" value="Talk to Medical Expert" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

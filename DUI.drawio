@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T06:43:40.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GizW3rUz1-CRBqBRF4rF" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T06:47:53.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bAwnCwUWnBDcvvUXMBur" version="21.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="780" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,9 @@
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-27" value="Do you want &lt;br&gt;to Book a Cab" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="590" width="120" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="g4Tmy_cBq8NnA4SzaI21-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-29" target="RyZNCgzlQGEo0C-rfPGr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-29" value="Social Drinker" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="135" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -107,8 +110,11 @@
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-36" value="No &amp;amp;&amp;amp; Frequent Drink" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="760" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RyZNCgzlQGEo0C-rfPGr-37" value="Show Take Rest Message &amp;amp; warning.&amp;nbsp;&lt;br&gt;&lt;br&gt;Provide care taker phone no" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="155" y="885" width="120" height="90" as="geometry" />
+        <mxCell id="g4Tmy_cBq8NnA4SzaI21-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-37" target="g4Tmy_cBq8NnA4SzaI21-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyZNCgzlQGEo0C-rfPGr-37" value="Show Take Rest Message &amp;amp; warning.&amp;nbsp;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="155" y="740" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-39" value="No &amp;amp;&amp;amp; Heavy Drink" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="313" y="900" width="130" height="30" as="geometry" />
@@ -140,14 +146,8 @@
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-53" value="Close" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RyZNCgzlQGEo0C-rfPGr-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-37" target="RyZNCgzlQGEo0C-rfPGr-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="975" as="sourcePoint" />
-            <mxPoint x="215" y="1050" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-43" value="Send Notification to care taker" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="155" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-57" value="BAC &amp;gt;= 0.200" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="760" width="145" height="30" as="geometry" />
@@ -168,7 +168,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-63" value="Send Notification to nearest hospital&lt;br&gt;&lt;br&gt;Provide care taker phone no" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="5" y="1000" width="120" height="80" as="geometry" />
+          <mxGeometry y="1050" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g4Tmy_cBq8NnA4SzaI21-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RyZNCgzlQGEo0C-rfPGr-33">
           <mxGeometry relative="1" as="geometry">
@@ -222,6 +222,26 @@
         </mxCell>
         <mxCell id="g4Tmy_cBq8NnA4SzaI21-14" value="Cancel Booing" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g4Tmy_cBq8NnA4SzaI21-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g4Tmy_cBq8NnA4SzaI21-18" target="RyZNCgzlQGEo0C-rfPGr-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4Tmy_cBq8NnA4SzaI21-21" value="No contact" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g4Tmy_cBq8NnA4SzaI21-20">
+          <mxGeometry x="-0.543" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g4Tmy_cBq8NnA4SzaI21-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g4Tmy_cBq8NnA4SzaI21-18" target="g4Tmy_cBq8NnA4SzaI21-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4Tmy_cBq8NnA4SzaI21-18" value="Ask consent &lt;br&gt;for contact &lt;br&gt;family" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="835" width="102.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="g4Tmy_cBq8NnA4SzaI21-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g4Tmy_cBq8NnA4SzaI21-26" target="RyZNCgzlQGEo0C-rfPGr-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4Tmy_cBq8NnA4SzaI21-26" value="Take Contact Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151.25" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

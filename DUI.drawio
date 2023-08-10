@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T06:57:24.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2-uP-YiO56xGQKf-mRmq" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T06:57:37.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DHKCqMmwP-hHO6dWX1dx" version="21.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="780" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,11 +164,6 @@
         </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-58" value="Send Notification to nearest hospital&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Provide care taker phone no" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="5" y="555" width="125" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="RyZNCgzlQGEo0C-rfPGr-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RyZNCgzlQGEo0C-rfPGr-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="1090" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="g4Tmy_cBq8NnA4SzaI21-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g4Tmy_cBq8NnA4SzaI21-0" target="RyZNCgzlQGEo0C-rfPGr-33">
           <mxGeometry relative="1" as="geometry">

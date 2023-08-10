@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T07:07:12.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nRQMeJ22hbZQtghd4E_F" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T07:07:37.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="19X3owIRY9kfF_axYU5F" version="21.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="780" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,9 +133,6 @@
         </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-37" value="Show Take Rest Message &amp;amp; warning.&amp;nbsp;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="650" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="RyZNCgzlQGEo0C-rfPGr-39" value="No &amp;amp;&amp;amp; Heavy Drink" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="313" y="900" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RyZNCgzlQGEo0C-rfPGr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RyZNCgzlQGEo0C-rfPGr-43" target="RyZNCgzlQGEo0C-rfPGr-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
